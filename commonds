@@ -1,0 +1,5 @@
+1 After doing this, you may fix the identity used for this commit with:deleting
+    git commit --amend --reset-author
+
+
+2 git push --set-upstream origin second
